@@ -1,5 +1,5 @@
 {
-    "url": "http://localhost:5173/",
+    "url": "https://ton-keeper-eight.vercel.app/",
     "name": "My Ton App",
-    "iconUrl": "http://localhost:5173/logo.png"
+    "iconUrl": "https://ton-keeper-eight.vercel.app/logo.png"
 }
