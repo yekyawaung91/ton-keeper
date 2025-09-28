@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import './App.css'
 import { TonConnectUIProvider } from '@tonconnect/ui-react';
 import { TonConnectButton } from '@tonconnect/ui-react';
